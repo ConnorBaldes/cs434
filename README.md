@@ -11,7 +11,6 @@ CS434 provides a broad introduction to **machine learning** and **data mining**,
 - **Optimization & Computational Complexity**: Gradient descent, kernel methods, perceptron.
 
 ## Course Objectives
-By completing this course, one will:
 - **Formulate machine learning problems** for various applications.
 - **Analyze and implement fundamental machine learning algorithms**.
 - **Evaluate models** using statistical and computational methods.
